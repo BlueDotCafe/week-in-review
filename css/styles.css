@@ -1,8 +1,14 @@
+h1 {
+  font-size: 42pt;
+  font-weight: lighter;
+}
+
 h2 {
   font-family: sans-serif;
   font-weight: lighter;
   color: #f3897e;
-  font-size: 18pt;
+  font-size: 16pt;
+  font-variant: small-caps;
 }
 
 ul {
@@ -10,16 +16,26 @@ ul {
   font-weight: lighter;
   font-size: 14pt;
   color: rgba(58, 46, 46, 0.58);
+  font-variant: small-caps;
 }
 
 p {
-  font-family: sans-serif;
-  font-weight: bold;
+  font-family: cursive;
+  font-weight: normal;
   color: #f3897e;
+  font-size: 18pt;
+}
+
+blockquote p {
+  font-family: sans-serif;
+  font-weight: normal;;
+  color: #f3897e;
+  font-size: 13pt;
+  font-variant: small-caps;
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 390px;
+  width: 390px;
   float: left;
 }
