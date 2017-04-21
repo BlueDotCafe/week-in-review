@@ -17,3 +17,9 @@ p {
   font-weight: bold;
   color: #f3897e;
 }
+
+img {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
