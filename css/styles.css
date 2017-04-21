@@ -1,0 +1,19 @@
+h2 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #f3897e;
+  font-size: 18pt;
+}
+
+ul {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 14pt;
+  color: rgba(58, 46, 46, 0.58);
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #f3897e;
+}
