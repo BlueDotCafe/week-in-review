@@ -54,6 +54,13 @@ blockquote p {
   font-variant: small-caps;
 }
 
+.important {
+  font-family: sans-serif;
+  font-stretch: ultra-expanded;
+  color: #ef6e1e;
+  font-size: 20pt;
+}
+
 footer {
   font-family: cursive;
   font-weight: bold;
