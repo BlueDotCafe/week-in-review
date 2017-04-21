@@ -1,5 +1,9 @@
+.col-md-3 {
+  float: right;
+}
+
 h1 {
-  font-size: 52pt;
+  font-size: 59pt;
   font-weight: lighter;
 }
 
@@ -7,14 +11,30 @@ h2 {
   font-family: sans-serif;
   font-weight: normal;;
   color: #f3897e;
-  font-size: 20pt;
+  font-size: 19pt;
+  font-variant: small-caps;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: normal;
+  color: #f3897e;
+  font-size: 19pt;
   font-variant: small-caps;
 }
 
 ul {
   font-family: sans-serif;
   font-weight: lighter;
-  font-size: 17pt;
+  font-size: 14pt;
+  color: rgba(58, 46, 46, 0.58);
+  font-variant: small-caps;
+}
+
+ol {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 25pt;
   color: rgba(58, 46, 46, 0.58);
   font-variant: small-caps;
 }
@@ -23,14 +43,14 @@ p {
   font-family: cursive;
   font-weight: normal;
   color: #f3897e;
-  font-size: 18pt;
+  font-size: 17pt;
 }
 
 blockquote p {
   font-family: sans-serif;
   font-weight: normal;;
   color: #f3897e;
-  font-size: 16pt;
+  font-size: 13pt;
   font-variant: small-caps;
 }
 
@@ -41,7 +61,13 @@ footer {
 }
 
 img {
-  height: 390px;
-  width: 390px;
+  height: 380px;
+  width: 380px;
   float: left;
+}
+
+.rhyme {
+  font-family: cursive;
+  font-weight: lighter;
+  color: rgba(57, 34, 18, 0.87);
 }
