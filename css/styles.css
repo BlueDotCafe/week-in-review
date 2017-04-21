@@ -1,20 +1,20 @@
 h1 {
-  font-size: 42pt;
+  font-size: 52pt;
   font-weight: lighter;
 }
 
 h2 {
   font-family: sans-serif;
-  font-weight: lighter;
+  font-weight: normal;;
   color: #f3897e;
-  font-size: 16pt;
+  font-size: 20pt;
   font-variant: small-caps;
 }
 
 ul {
   font-family: sans-serif;
   font-weight: lighter;
-  font-size: 14pt;
+  font-size: 17pt;
   color: rgba(58, 46, 46, 0.58);
   font-variant: small-caps;
 }
@@ -30,8 +30,14 @@ blockquote p {
   font-family: sans-serif;
   font-weight: normal;;
   color: #f3897e;
-  font-size: 13pt;
+  font-size: 16pt;
   font-variant: small-caps;
+}
+
+footer {
+  font-family: cursive;
+  font-weight: bold;
+  color: rgba(58, 46, 46, 0.58);
 }
 
 img {
