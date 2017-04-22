@@ -5,12 +5,13 @@
 }
 
 .portrait {
-  height: 200px;
-  width: 200px;
+  height: 175px;
+  width: 175px;
 }
 
 a {
   color: rgba(0, 128, 0, 0.44);
+  font-size: 16pt;
 }
 
 .col-md-3 {
@@ -50,7 +51,7 @@ ul {
 ol {
   font-family: sans-serif;
   font-weight: lighter;
-  font-size: 25pt;
+  font-size: 14pt;
   color: rgba(58, 46, 46, 0.58);
   font-variant: small-caps;
 }
@@ -59,7 +60,7 @@ p {
   font-family: cursive;
   font-weight: normal;
   color: #f3897e;
-  font-size: 17pt;
+  font-size: 14pt;
 }
 
 blockquote p {
