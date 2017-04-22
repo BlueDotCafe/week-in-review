@@ -1,3 +1,18 @@
+.my-class {
+  margin: 100px;
+  border: 15px solid rgba(0, 128, 0, 0.44);
+  padding: 65px;
+}
+
+.portrait {
+  height: 200px;
+  width: 200px;
+}
+
+a {
+  color: rgba(0, 128, 0, 0.44);
+}
+
 .col-md-3 {
   float: right;
 }
@@ -5,6 +20,7 @@
 h1 {
   font-size: 59pt;
   font-weight: lighter;
+  color: #f3897e;
 }
 
 h2 {
